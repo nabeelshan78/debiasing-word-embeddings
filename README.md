@@ -19,10 +19,6 @@ In this notebook, we explore and correct bias in pretrained word vectors using t
 
 ```bash
 debiasing-word-embeddings/
-│
-├── data/
-│ └── glove.6B.50d.txt # Pre-trained GloVe word vectors (50-dim)
-│
 ├── images/
 │   ├── equalize10.png               # Visual illustration of equalization
 │   ├── neutral.png                  # Diagram explaining neutralization
